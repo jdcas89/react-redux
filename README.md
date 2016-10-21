@@ -23,6 +23,9 @@ http://ignaciochavez.com/helpful-principles-starting-react/
 A Cartoon intro to redux:
 https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.oz1yfoar7
 
+Redux official documentation:
+http://redux.js.org/
+
 Making sense of redux:
 https://medium.freecodecamp.com/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca#.ssf21ifid
 
