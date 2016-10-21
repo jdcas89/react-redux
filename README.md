@@ -136,8 +136,10 @@ https://github.com/jasonmerino/react-native-simple-store
 
 React Native vector Icons
 https://github.com/oblador/react-native-vector-icons
+
 React native navbar
 https://github.com/react-native-community/react-native-navbar
+
 Redux logger:
 https://github.com/evgenyrodionov/redux-logger
 
