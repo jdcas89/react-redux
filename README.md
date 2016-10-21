@@ -109,3 +109,45 @@ http://makeitopen.com/
 
 Interesting React-Native projects to learn from
 https://android.jlelse.eu/interesting-react-native-projects-to-learn-from-caf6ad1efd1f#.sz0u9ydct
+
+
+
+## Libraries
+React redux
+https://github.com/reactjs/react-redux
+
+Redux
+https://github.com/reactjs/redux
+
+Redux thunk
+https://github.com/gaearon/redux-thunk
+
+React Native Push Notifications
+https://github.com/zo0r/react-native-push-notification
+
+Cross Platform React Native UI Toolkit
+https://github.com/react-native-community/react-native-elements
+
+React Native Simple Store
+https://github.com/jasonmerino/react-native-simple-store
+
+React Native vector Icons
+https://github.com/oblador/react-native-vector-icons
+React native navbar
+https://github.com/react-native-community/react-native-navbar
+Redux logger:
+https://github.com/evgenyrodionov/redux-logger
+
+Redux persist
+https://github.com/rt2zz/redux-persist
+
+Remote Redux DevTools
+https://github.com/zalmoxisus/remote-redux-devtools
+
+react-native-device-info
+https://github.com/rebeccahughes/react-native-device-info
+
+
+Normalizr
+https://github.com/paularmstrong/normalizr
+
