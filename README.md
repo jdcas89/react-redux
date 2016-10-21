@@ -9,6 +9,12 @@ https://medium.freecodecamp.com/learn-es6-the-dope-way-i-const-let-var-ae8285804
 
 ##  React basics
 
+Why React?
+https://medium.com/formidable-blog/using-react-is-a-business-decision-not-a-technology-choice-63c4641c5f7#.toxmyyl2x
+
+https://blog.sparerides.com/why-we-built-our-android-app-in-react-native-1eeecbdb636a#.c31nup6jr
+
+
 Helpful princinples starting react:
 http://ignaciochavez.com/helpful-principles-starting-react/
 
@@ -22,6 +28,13 @@ https://medium.freecodecamp.com/why-redux-makes-sense-to-me-and-how-i-conceptual
 
 redux best practices:
 https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.7izoi1z74
+
+React/Redux — Best Practices & Gotchas
+https://medium.com/@nparsons08/react-redux-best-practices-gotchas-56cf61c1c415#.q0cctkkzj
+
+Step by Step Guide To Building React Redux Apps
+https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a#.vcb3p09a5
+
 
 
 ## Keeping things in place
@@ -44,6 +57,37 @@ https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-692504
 Airbnb react style guide:
 https://github.com/airbnb/javascript/tree/master/react
 
+## MERN STACK (MongoDB, Express, React & Node.js)
+https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50#.guz3vrjfm
+
+
+
+## Functional Components vs. Stateless Functional Components vs. Stateless Components
+https://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components-630fdfd90c9c#.kxurm77dt
+
+Understanding component based architecture:
+https://medium.com/@dan.shapiro1210/understanding-component-based-architecture-3ff48ec0c238#.ogwvrjijg
+
+
+## Testing
+
+Simple React/Redux Testing:
+https://medium.com/@caljrimmer/simple-react-redux-testing-cd579d4c2103#.j4ohyyqvr
+
+Some Thoughts On Testing React/Redux Applications
+https://medium.com/javascript-inside/some-thoughts-on-testing-react-redux-applications-8571fbc1b78f#.aojoswpsu
+
+Unit testing React Native with the *new* Jest (II)
+https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-ii-redux-snapshots-for-your-actions-and-reducers-8559f6f8050b#.ro34lvr1p
+
+Enzyme testing
+https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f#.9bsoixl0c
+
+
+## Developer tools
+Redux dev tools
+https://medium.com/@zalmoxis/improve-your-development-workflow-with-redux-devtools-extension-f0379227ff83#.agffs9c18
+
 
 ## Push notifications
 
@@ -54,8 +98,14 @@ https://medium.com/@martco/triggering-ios-actionable-push-notifications-via-reac
 
 ## Examples to learn from
 
+React Native Taxi App With Backend Integration:
+https://blog.nativebase.io/react-native-taxi-app-with-backend-integration-9b7043cc4c5b#.3d44jm79f
+
 Building a React Native App for 80 Million Users:
 https://www.youtube.com/watch?v=abSNo2P9mMM&t=2209s
 
 Building the F8 2016 App:
 http://makeitopen.com/
+
+Interesting React-Native projects to learn from
+https://android.jlelse.eu/interesting-react-native-projects-to-learn-from-caf6ad1efd1f#.sz0u9ydct
