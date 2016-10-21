@@ -1,5 +1,12 @@
 # React/ React Native / Redux
 
+## The state of javascript:
+http://stateofjs.com/2016/introduction/
+
+## ES6
+Learn ES6 The Dope Way Part:
+https://medium.freecodecamp.com/learn-es6-the-dope-way-i-const-let-var-ae828580472b#.ju7q6fhfp
+
 ##  React basics
 
 Helpful princinples starting react:
@@ -9,6 +16,12 @@ http://ignaciochavez.com/helpful-principles-starting-react/
 ## Redux basics
 A Cartoon intro to redux:
 https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.oz1yfoar7
+
+Making sense of redux:
+https://medium.freecodecamp.com/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca#.ssf21ifid
+
+redux best practices:
+https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e#.7izoi1z74
 
 
 ## Keeping things in place
@@ -36,9 +49,6 @@ https://github.com/airbnb/javascript/tree/master/react
 
 Triggering iOS 10 actionable push notifications via React Native:
 https://medium.com/@martco/triggering-ios-actionable-push-notifications-via-react-native-7990a6a3c3f4#.kreptl7ae
-
-
-
 
 
 
